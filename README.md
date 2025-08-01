@@ -52,11 +52,11 @@ Now, I'm expanding into **core data science skills**, including:
 
 Before data science, I explored creative technology and gamified systems through Unity projects.
 
-- 🌍 [MyCity AR Civic Platform](https://github.com/gbo999/location-based-social-media))  
-  AR + Firebase system for location-based city improvements
+- 🌍 [Location based social media](https://github.com/gbo999/location-based-social-media))  
+  location based social media
 
 - 🦠 [Covid-Time Game](https://github.com/gbo999/Covid-Time))
-  2D Unity game showing virus spread & mask impact, with A* pathfinding
+  2D Unity game simulating coping with covid in a fun way
 
 ---
 
