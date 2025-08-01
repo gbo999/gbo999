@@ -38,15 +38,13 @@ Now, I'm expanding into **core data science skills**, including:
 ## 🧰 My Toolkit
 
 **Core Tools**  
-`Python` • `Pandas` • `NumPy` • `scikit-learn` • `SQL` • `Matplotlib` • `Seaborn` • `Plotly`
+`Python` • `Pandas` • `SQL` • `Plotly`
 
 **ML & Vision**  
-`YOLOv8` • `OpenCV` • `TensorFlow` • `FiftyOne` • `SAM` • `Ultralytics`
+`YOLOv8` • `OpenCV` •  `FiftyOne` •  `Ultralytics`
 
 **Dev & Workflow**  
 `Git` • `Colab` • `Jupyter Notebooks` • `Markdown`
-
-Learning: `MLflow` • `FastAPI` • `Docker`
 
 ---
 
