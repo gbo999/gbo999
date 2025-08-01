@@ -12,14 +12,14 @@ I'm an aspiring data scientist. My Master's thesis involved building real-world 
 
 ✅ Highlights:
 - YOLOv8-based detection model for counting prawns in drone footage  
-- Pose estimation  for precise morphometric measurements  
+- Pose estimation for precise morphometric measurements  
 - Ground truth validation using ImageJ and prawn exuviae  
 - Dataset management, error analysis, and interactive exploration via FiftyOne  
 
 
 This project taught me how to:
 - Handle noisy, real-world data
-- Design and train deep learning models
+- train deep learning models
 - Work with metrics, visualization, and automation tools
 - Document and communicate research clearly
 
