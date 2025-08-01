@@ -29,8 +29,8 @@ This project taught me how to:
 
 Now, I'm expanding into **core data science skills**, including:
 - Data cleaning & exploration (Pandas, SQL)
-- Machine learning & evaluation (scikit-learn)
-- Visualization (Matplotlib, Seaborn, Plotly)
+- Machine learning & evaluation (fiftyone)
+- Visualization (Plotly)
 - Business-oriented thinking and storytelling with data
 
 ---
@@ -52,11 +52,9 @@ Now, I'm expanding into **core data science skills**, including:
 
 Before data science, I explored creative technology and gamified systems through Unity projects.
 
-- 🌍 [Location based social media](https://github.com/gbo999/location-based-social-media))  
-  location based social media
+- 🌍 [Location based social media](https://github.com/gbo999/location-based-social-media)   location based social media
 
-- 🦠 [Covid-Time Game](https://github.com/gbo999/Covid-Time))
-  2D Unity game simulating coping with covid in a fun way
+- 🦠 [Covid-Time Game](https://github.com/gbo999/Covid-Time)   2D Unity game simulating coping with covid in a fun way
 
 ---
 
