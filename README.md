@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gil — Aspiring Data Scientist with a Deep Tech Foundation
 
-I'm an aspiring data scientist with a strong foundation in computer vision, deep learning, and robotics. My Master's thesis involved building real-world systems for object detection and measurement in aquaculture — now, I'm shifting my focus toward applying data science to broader challenges across industries.
+I'm an aspiring data scientist. My Master's thesis involved building real-world systems for object detection and measurement in aquaculture — now, I'm shifting my focus toward applying data science to broader challenges across industries.
 
 ---
 
@@ -54,10 +54,10 @@ Learning: `MLflow` • `FastAPI` • `Docker`
 
 Before data science, I explored creative technology and gamified systems through Unity projects.
 
-- 🌍 [MyCity AR Civic Platform](https://github.com/yourusername/mycity-ar-social-platform)  
+- 🌍 [MyCity AR Civic Platform](https://github.com/gbo999/location-based-social-media))  
   AR + Firebase system for location-based city improvements
 
-- 🦠 [Covid-Time Game](https://github.com/gbo999/location-based-social-media)
+- 🦠 [Covid-Time Game](https://github.com/gbo999/Covid-Time))
   2D Unity game showing virus spread & mask impact, with A* pathfinding
 
 ---
